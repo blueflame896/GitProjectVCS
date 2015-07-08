@@ -10,6 +10,8 @@ class CommentsController < ApplicationController
     end
   end
 
+
+
   # GET /comments/1
   # GET /comments/1.json
   def show
