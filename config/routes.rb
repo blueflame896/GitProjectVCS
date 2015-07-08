@@ -1,4 +1,6 @@
 GitProjectVCS::Application.routes.draw do
+
+
   resources :comments
 
 
